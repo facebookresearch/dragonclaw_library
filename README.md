@@ -6,7 +6,7 @@ to read data from the ReSkin sensing integrated with the [DragonClaw](https://va
 ## Installation
 1. Clone this repository
 ```
-git clone https://github.com/vasu1360/dragonclaw_library.git
+git clone https://github.com/facebookresearch/dragonclaw_library
 ```
 2. Install this package using pip
 ```
